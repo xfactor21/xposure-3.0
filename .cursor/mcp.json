@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "xposure-3.0": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\17143\\.gemini\\antigravity-ide\\scratch\\planet-x-social\\mcp-server\\server.js"
+      ]
+    }
+  }
+}

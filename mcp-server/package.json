@@ -1,0 +1,24 @@
+{
+  "name": "xposure-mcp-server",
+  "version": "3.0.0",
+  "description": "Model Context Protocol (MCP) Server for Xposure 3.0 — Omnichannel Management & Brand Intelligence",
+  "main": "server.js",
+  "type": "module",
+  "bin": {
+    "xposure-mcp": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "social-media",
+    "xposure",
+    "agentic",
+    "claude",
+    "cursor"
+  ],
+  "author": "Xposure Team",
+  "license": "MIT"
+}
